@@ -2,3 +2,4 @@
 
 2. Run Prepos and add proejct.
 
+3. Add all custom css to the bottom of bootstrap.less
