@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * Author: Kiran Kumar Dash
  */
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
@@ -1177,7 +1178,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: inherit;
+  font-family: 'Shadows Into Light Two', cursive;
   font-weight: 500;
   line-height: 1.1;
   color: inherit;
