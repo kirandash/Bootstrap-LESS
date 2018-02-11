@@ -22,3 +22,9 @@ footer {
     }
   }
 }
+
+/* Buttons with Mixins */
+.btn-secondary {
+  .button-variant(#fff; @brand-secondary; darken(@brand-secondary, 20%)); 
+  font-family: @headings-font-family;
+}
