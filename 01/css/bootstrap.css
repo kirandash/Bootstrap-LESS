@@ -6826,3 +6826,35 @@ fieldset[disabled] .btn-secondary.focus {
   color: #cdae51;
   background-color: #fff;
 }
+/* Tab Styling (navs.less) */
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+.tab-content:before,
+.tab-content:after {
+  content: " ";
+  display: table;
+}
+.tab-content:after {
+  clear: both;
+}
+.tab-content:before,
+.tab-content:after {
+  content: " ";
+  display: table;
+}
+.tab-content:after {
+  clear: both;
+}
+.tab-content .pull-left {
+  padding: 0 10px 10px 0;
+}
+.tab-content .pull-right {
+  padding: 0 0 10px 10px;
+}
+.extra-padding {
+  margin-top: 69px;
+}
